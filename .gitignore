@@ -1,0 +1,6 @@
+src/main/java/com/raincoatmoon/EnvVariables.java
+.DS_Store
+.idea/*
+target/*
+SnowProject.iml
+snowproject.iml
