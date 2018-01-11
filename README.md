@@ -9,4 +9,4 @@ focused on the development of a Telegram assistant. This kernel is built on top 
 
 - Rename `src/main/java/com/raincoatmoon/EnvVariablesExample.java` as `src/main/java/com/raincoatmoon/EnvVariables.java` and fill it in with your bot credentials.
 
-Attention: for running the programm you must properly link and set up a DB (or comment the corresponding lines in `src/main/java/com/raincoatmoon/main.java`).
+Attention: for running the programme you must properly link and set up a DB (or comment the corresponding lines in `src/main/java/com/raincoatmoon/main.java`).
